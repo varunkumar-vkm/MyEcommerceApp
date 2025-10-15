@@ -96,7 +96,7 @@ src/
 ## 🔐 Test Credentials
 
 For testing the login functionality, use:
-- **Email**: test@example.com
+- **Email**: varun@example.com
 - **Password**: password
 
 ## 📱 App Flow
